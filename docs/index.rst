@@ -20,6 +20,7 @@ Available techniques:
    :caption: Contents:
 
    something
+   api
 
 
 
